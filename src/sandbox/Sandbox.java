@@ -28,7 +28,7 @@ public class Sandbox {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello my sandbox in NetBeans!!!!");
-        System.out.println("Hello my sandbox in NetBeans!!!!");
+        System.out.println("My first change to be saved to git.");
 
     }
     
